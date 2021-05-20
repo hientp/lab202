@@ -27,7 +27,8 @@ Damit können wir prüfen ob der Restwert 0 ist (Gerade Zahl) oder ungleich 0 (U
 
    * Breakword - Funktioniert :)! Hier noch eine andere Möglichkeit
 
-    ```java
+
+ ```java
 
     public static boolean containsReservedKeyword(String string) {
            if (string == null) {
@@ -40,9 +41,7 @@ Damit können wir prüfen ob der Restwert 0 ist (Gerade Zahl) oder ungleich 0 (U
            }
            return false;
        }
-  
-
-      ```
+ ```
 
 
 
